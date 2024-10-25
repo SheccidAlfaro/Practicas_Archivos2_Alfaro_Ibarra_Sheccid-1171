@@ -7,7 +7,7 @@ Practicas con manejo de archivos de python
 ![image](https://github.com/user-attachments/assets/5e20c680-7d2a-4cc5-82a6-ba7c2b9c5998)
 ![image](https://github.com/user-attachments/assets/06f5ae71-8aa0-4bd6-8718-e275ae40d7ee)
 
-#Practica 3
+# Practica 3
 ![image](https://github.com/user-attachments/assets/8b7c3cb6-1ed6-4139-a5c1-6a0d0c1c6aa7)
 ![image](https://github.com/user-attachments/assets/1b862aed-a8c2-4ebe-af1d-d63f67b05d99)
 
